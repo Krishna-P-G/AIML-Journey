@@ -68,7 +68,7 @@ Depending on how we choose nodes from the Frontier, we get two classical search 
 
 ### 🔹 4. Example — Finding E from A
 
-![Search Tree](./images/Day1-Search-Tree.png)
+![Search Tree](../images/Day1-Search-Tree.png.png)
 
 #### Depth-First Search (DFS) Example:
 
